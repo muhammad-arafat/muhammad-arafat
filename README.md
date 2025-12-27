@@ -4,7 +4,7 @@
 
 # About Me
 
-My nickname is Arafat, Software Engineer from Rajbari, Dhaka, Bangladesh with over 2 years of hands-on industry experience. Proven expertise in building high-performance, production-grade applications across web and mobile platforms. Specialized in architecting scalable frontend solutions using React, Next.js, and React Native/Expo, with a track record of leading feature development, migrating legacy systems, and optimizing applications for exceptional user experience on high-traffic platforms.
+I am Arafat Hossain, Software Engineer from Rajbari, Dhaka, Bangladesh with over 2 years of hands-on industry experience. Proven expertise in building high-performance, production-grade applications across web and mobile platforms. Specialized in architecting scalable frontend solutions using React, Next.js, and React Native/Expo, with a track record of leading feature development, migrating legacy systems, and optimizing applications for exceptional user experience on high-traffic platforms.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
