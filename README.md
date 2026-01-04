@@ -1,7 +1,5 @@
 <h1 align="center">Hi, My Best Wishes ✨, I'm Muhammad Arafat Hossain</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=44&duration=3000&pause=1000&color=00e9ff&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Software+Engineer;React+Developer;NextJS+Developer;React+Native+Developer;Expert+Responsive+Designer;Progmming+Enthusiast)](https://git.io/typing-svg)
-
 # About Me
 
 I am Arafat Hossain, Software Engineer from Rajbari, Dhaka, Bangladesh with over 2 years of hands-on industry experience. Proven expertise in building high-performance, production-grade applications across web and mobile platforms. Specialized in architecting scalable frontend solutions using React, Next.js, and React Native/Expo, with a track record of leading feature development, migrating legacy systems, and optimizing applications for exceptional user experience on high-traffic platforms.
